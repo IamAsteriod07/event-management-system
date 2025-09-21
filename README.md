@@ -56,7 +56,7 @@ PORT=3001
 
 4. Install frontend dependencies
 ```bash
-cd frontend
+cd eventapp
 npm install
 ```
 
